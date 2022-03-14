@@ -16,7 +16,7 @@ import java.util.stream.Stream;
 
 import javax.swing.event.ListSelectionEvent;
 
-class Employee1{
+public class Employee1{
 	class Employee1{
 		int emppID;
 		String empName;
@@ -68,4 +68,3 @@ public class FunctionTesting {
 }
 
 
-// https://github.com/likedhiraj81/LocalRepo.git
