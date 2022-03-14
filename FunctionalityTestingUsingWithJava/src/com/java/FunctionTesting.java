@@ -17,12 +17,12 @@ import java.util.stream.Stream;
 import javax.swing.event.ListSelectionEvent;
 
 public class Employee1{
-	class Employee1{
+	 Employee1(){
 		int emppID;
 		String empName;
 		String email;
 		String city;
-		String state;
+		String state;}
 		public Employee1(int emppID, String empName, String email, String city, String state) {
 			this.emppID = emppID;
 			this.empName = empName;
@@ -30,7 +30,6 @@ public class Employee1{
 			this.city = city;
 			this.state = state;
 		}
-	}
 	int emppID;
 	String empName;
 	String email;
