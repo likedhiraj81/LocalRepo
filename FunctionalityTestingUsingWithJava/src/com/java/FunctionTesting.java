@@ -50,7 +50,7 @@ public class FunctionTesting {
 		Iterator<Employee1> i= hs.iterator();
 		while (i.hasNext()) {
 			Employee1 employee = (Employee1)i.next();
-			System.out.println(employee.emppID +"  "+employee.empName+"  "+employee.city+" "+employee.state);
+			// System.out.println(employee.emppID +"  "+employee.empName+"  "+employee.city+" "+employee.state);
 		}
 }
 }
