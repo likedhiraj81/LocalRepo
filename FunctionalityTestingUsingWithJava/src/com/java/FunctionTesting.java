@@ -41,6 +41,8 @@ public class FunctionTesting {
 		Employee1 emp4= new Employee1(14, "dhiraj4 ", "likedhiraj4", "patna4", "karnatka4");
 		Employee1 emp5= new Employee1(12, "dhiraj1 ", "likedhiraj1", "patna1", "karnatka1");
 		System.out.println(emp1.equals(emp2));
+	
+		
 		/*HashSet<Employee1> hs= new HashSet<Employee1>();
 		hs.add(emp1);
 		hs.add(emp2);
