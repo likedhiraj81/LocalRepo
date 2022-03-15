@@ -21,6 +21,10 @@ public class DiagonalDiff {
 		int absoluteValue= Math.abs(add1-add2);
 		return absoluteValue;
 	}
+	/**
+	 * @Test
+	 * @param args
+	 */
     public static void main(String[] args) {
     	DiagonalDiff ddf= new DiagonalDiff();
     	List al= new ArrayList<>();
