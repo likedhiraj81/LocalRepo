@@ -1,5 +1,5 @@
 package com.java.datastructure;
-
+// created node class
 class Node{
       private Node left;
       private Node right;
