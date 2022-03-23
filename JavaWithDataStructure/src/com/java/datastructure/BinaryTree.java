@@ -10,7 +10,7 @@ class Node{
 		this.node = node;
 	}
 }
-
+// created binary tree class
 public class BinaryTree {
      
 	public static void main(String[] args) {
