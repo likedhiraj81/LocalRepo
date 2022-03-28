@@ -2,11 +2,11 @@
 
 //master branch updated
 // After form loads focus will go to User id field.
-function firstfocus()
+/*function firstfocus()
 {
 var uid = document.registration.userid.focus();
 return true;
-}
+}*/
 
 // This function will validate User id.
 function userid_validation(mx,my)
